@@ -1,0 +1,254 @@
+[
+	{
+		"title": "O Senhor dos Anéis: A Sociedade do Anel",
+		"year": "2001",
+		"franchise": "O Senhor dos Anéis",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h59m"
+	},
+	{
+		"title": "O Senhor dos Anéis: O Retorno do Rei",
+		"year": "2003",
+		"franchise": "O Senhor dos Anéis",
+		"genre": "Aventura, Fantasia",
+		"duration": "3h22m"
+	},
+	{
+		"title": "O Senhor dos Anéis: As Duas Torres",
+		"year": "2002",
+		"franchise": "O Senhor dos Anéis",
+		"genre": "Aventura, Fantasia",
+		"duration": "3h"
+	},
+	{
+		"title": "Harry Potter e a Pedra Filosofal",
+		"year": "2001",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h32m"
+	},
+	{
+		"title": "Harry Potter e a Câmara Secreta",
+		"year": "2002",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h41m"
+	},
+	{
+		"title": "Harry Potter e o Prisioneiro de Azkaban",
+		"year": "2004",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h22m"
+	},
+	{
+		"title": "Harry Potter e o Cálice de Fogo",
+		"year": "2005",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h37m"
+	},
+	{
+		"title": "Harry Potter e a Ordem da Fênix",
+		"year": "2007",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h18m"
+	},
+	{
+		"title": "Harry Potter e o Enigma do Príncipe",
+		"year": "2009",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h33m"
+	},
+	{
+		"title": "Harry Potter e as Relíquias da Morte - Parte 1",
+		"year": "2010",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h26m"
+	},
+	{
+		"title": "Harry Potter e as Relíquias da Morte - Parte 2",
+		"year": "2011",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h10m"
+	},
+	{
+		"title": "Animais Fantásticos e Onde Habitam",
+		"year": "2016",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h12m"
+	},
+	{
+		"title": "Animais Fantásticos: Os Crimes de Grindelwald",
+		"year": "2018",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": "2h13m"
+	},
+	{
+		"title": "Animais Fantásticos:  Os Segredos de Dumbledore",
+		"year": "2022",
+		"franchise": "Harry Potter",
+		"genre": "Aventura, Fantasia",
+		"duration": ""
+	},
+	{
+		"title": "Homem de Ferro",
+		"year": "2008",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Ficção Científica",
+		"duration": "2h6m"
+	},
+	{
+		"title": "O Incrível Hulk",
+		"year": "2008",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Ficção Científica",
+		"duration": "1h52m"
+	},
+	{
+		"title": "Homem de Ferro 2",
+		"year": "2010",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Ficção Científica",
+		"duration": "2h5m"
+	},
+	{
+		"title": "Thor",
+		"year": "2011",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Fantasia",
+		"duration": "1h54m"
+	},
+	{
+		"title": "Capitão América: O Primeiro Vingador",
+		"year": "2011",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h4m"
+	},
+	{
+		"title": "Os Vingadores",
+		"year": "2012",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h23m"
+	},
+	{
+		"title": "Homem de Ferro 3",
+		"year": "2013",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h10m"
+	},
+	{
+		"title": "Thor: O Mundo Sombrio",
+		"year": "2013",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "1h52m"
+	},
+	{
+		"title": "Capitão América 2: O Soldado Invernal",
+		"year": "2014",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h16m"
+	},
+	{
+		"title": "Guardiões da Galáxia",
+		"year": "2014",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h2m"
+	},
+	{
+		"title": "Vingadores: Era de Ultron",
+		"year": "2015",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Ficção Científica",
+		"duration": "2h21m"
+	},
+	{
+		"title": "Homem-Formiga",
+		"year": "2015",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "1h58m"
+	},
+	{
+		"title": "Capitão América: Guerra Civil",
+		"year": "2016",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h28m"
+	},
+	{
+		"title": "Doutor Estranho",
+		"year": "2016",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "1h55m"
+	},
+	{
+		"title": "Guardiões da Galáxia Vol. 2",
+		"year": "2017",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h17m"
+	},
+	{
+		"title": "Homem-Aranha: De Volta ao Lar",
+		"year": "2017",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h13m"
+	},
+	{
+		"title": "Thor: Ragnarok",
+		"year": "2017",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Ficção Científica",
+		"duration": "2h10m"
+	},
+	{
+		"title": "Pantera Negra",
+		"year": "2018",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h15m"
+	},
+	{
+		"title": "Vingadores: Guerra Infinita",
+		"year": "2018",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Ficção Científica",
+		"duration": "2h29m"
+	},
+	{
+		"title": "Homem-Formiga e a Vespa",
+		"year": "2018",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "1h58m"
+	},
+	{
+		"title": "Capitã Marvel",
+		"year": "2019",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Aventura",
+		"duration": "2h4m"
+	},
+	{
+		"title": "Vingadores: Ultimato",
+		"year": "2019",
+		"franchise": "Marvel - Saga do Infinito",
+		"genre": "Ação, Ficção Científica",
+		"duration": "3h2m"
+	}
+]
