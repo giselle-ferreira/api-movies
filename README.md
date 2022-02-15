@@ -1,7 +1,9 @@
 <h1 align="center">Movie API (Sagas & Franchises)</h1>
 
 <br>
-<br>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 > ## About
 > Movie API ( considering Sagas and Franchise movies) built for studies purpose. Developed with NodeJs and Express. I did all the testing with the Thunderclient vscode extension, and deployed on Heroku.
