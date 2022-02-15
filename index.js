@@ -23,7 +23,7 @@ movieRoute(app)
 
 // Página root
 app.get('/', (req, res) => 
-    res.send('Olá Express!'))
+    res.send('Sagas API by Giselle Ferreira.'))
 
 // Porta
 app.listen(port, () => console.info("Api rodando em http://localhost:3000"))
