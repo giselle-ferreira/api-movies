@@ -250,5 +250,14 @@
 		"franchise": "Marvel - Saga do Infinito",
 		"genre": "Ação, Ficção Científica",
 		"duration": "3h2m"
-	}
+	},
+	{
+		"title": "lalala",
+		"year": "2000",
+		"franchise": "star wars",
+		"genre": "fantasia",
+		"duration": "2h30m"
+	},
+	{},
+	{}
 ]

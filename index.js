@@ -8,6 +8,7 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const movieRoute = require('./routes/movieRoute')
+const cors = require('cors')
 
 // criar a app
 const app = express();
@@ -16,7 +17,8 @@ const app = express();
 const port = process.env.PORT || 3000
 
 // Middleware
-app.use(bodyParser.urlencoded({ extended: false }))
+app.use(cors());
+app.use(bodyParser.urlencoded({ extended: false }));
 
 // Rotas
 movieRoute(app)
