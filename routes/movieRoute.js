@@ -34,7 +34,7 @@ const movieRoute = (app) => {
     }).post((req, res) => { // Adicionar filme
         const movies = getMovie() 
 
-        const { title, year, franchise, genre, duration } = req.body 
+        const { title, year, franchise, genre, duration, img } = req.body 
 
         movies.push(req.body) // Adiciona o filme e salva
         saveMovie(movies)
