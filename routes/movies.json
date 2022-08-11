@@ -1,378 +1,471 @@
-[
-	{
-		"title": "Harry Potter e a Pedra Filosofal",
-		"year": "2001",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h32m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg"
-	},
-	{
-		"title": "Harry Potter e o Prisioneiro de Azkaban",
-		"year": "2004",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h22m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg"
-	},
-	{
-		"title": "Harry Potter e o Cálice de Fogo",
-		"year": "2005",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h37m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg"
-	},
-	{
-		"title": "Harry Potter e a Ordem da Fênix",
-		"year": "2007",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h18m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg"
-	},
-	{
-		"title": "Harry Potter e o Enigma do Príncipe",
-		"year": "2009",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h33m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg"
-	},
-	{
-		"title": "Harry Potter e as Relíquias da Morte - Parte 1",
-		"year": "2010",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h26m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg"
-	},
-	{
-		"title": "Harry Potter e as Relíquias da Morte - Parte 2",
-		"year": "2011",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h10m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg"
-	},
-	{
-		"title": "Animais Fantásticos e Onde Habitam",
-		"year": "2016",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h12m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGkt9ekX5cgRYKRIiJM27Xp3piR.jpg"
-	},
-	{
-		"title": "Animais Fantásticos: Os Crimes de Grindelwald",
-		"year": "2018",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h13m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oANEhQDQ3eB8tcqRPSzABim8oNg.jpg"
-	},
-	{
-		"title": "Animais Fantásticos:  Os Segredos de Dumbledore",
-		"year": "2022",
-		"franchise": "Harry Potter",
-		"genre": "Aventura, Fantasia",
-		"duration": "2h22m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg"
-	},
-	{
-		"title": "Capitã Marvel",
-		"year": "2019",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h4m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg"
-	},
-	{
-		"title": "Homem de Ferro",
-		"year": "2008",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h6m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tAcDOFX0WludQhvTdmG2rDxyQRM.jpg"
-	},
-	{
-		"title": "O Incrível Hulk",
-		"year": "2008",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Ficção Científica",
-		"duration": "1h52m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2vB6OlhTA1jAazDXrr7PEgFPnV.jpg"
-	},
-	{
-		"title": "Homem de Ferro 2",
-		"year": "2010",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h5m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg"
-	},
-	{
-		"title": "Thor",
-		"year": "2011",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Fantasia",
-		"duration": "1h54m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
-	},
-	{
-		"title": "Capitão América: O Primeiro Vingador",
-		"year": "2011",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h4m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg"
-	},
-	{
-		"title": "Os Vingadores",
-		"year": "2012",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h23m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg"
-	},
-	{
-		"title": "Homem de Ferro 3",
-		"year": "2013",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h10m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg"
-	},
-	{
-		"title": "Thor: O Mundo Sombrio",
-		"year": "2013",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "1h52m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg"
-	},
-	{
-		"title": "Capitão América 2: O Soldado Invernal",
-		"year": "2014",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h16m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iBFPjLLHXkBojKpWDluJxnpM24h.jpg"
-	},
-	{
-		"title": "Guardiões da Galáxia",
-		"year": "2014",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h2m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gyhICZLe3wSCCy0vjFfiVlhYsfu.jpg"
-	},
-	{
-		"title": "Vingadores: Era de Ultron",
-		"year": "2015",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h21m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGIIl89vglo66yUfbuTxzNAs4y5.jpg"
-	},
-	{
-		"title": "Homem-Formiga",
-		"year": "2015",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "1h58m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg"
-	},
-	{
-		"title": "Capitão América: Guerra Civil",
-		"year": "2016",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h28m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg"
-	},
-	{
-		"title": "Doutor Estranho",
-		"year": "2016",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "1h55m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg"
-	},
-	{
-		"title": "Guardiões da Galáxia Vol. 2",
-		"year": "2017",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h17m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg"
-	},
-	{
-		"title": "Homem-Aranha: De Volta ao Lar",
-		"year": "2017",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h13m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg"
-	},
-	{
-		"title": "Thor: Ragnarok",
-		"year": "2017",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h10m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg"
-	},
-	{
-		"title": "Pantera Negra",
-		"year": "2018",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h15m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg"
-	},
-	{
-		"title": "Vingadores: Guerra Infinita",
-		"year": "2018",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h29m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg"
-	},
-	{
-		"title": "Homem-Formiga e a Vespa",
-		"year": "2018",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "1h58m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg"
-	},
-	{
-		"title": "Capitã Marvel",
-		"year": "2019",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Aventura",
-		"duration": "2h4m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg"
-	},
-	{
-		"title": "Vingadores: Ultimato",
-		"year": "2019",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Ficção Científica",
-		"duration": "3h2m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg"
-	},
-	{
-		"title": "Thor: Amor e Trovão ",
-		"year": "2022",
-		"franchise": "Marvel - Saga do Infinito",
-		"genre": "Ação, Fantasia",
-		"duration": "1h59m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg"
-	},
-	{
-		"title": "Guerra nas Estrelas",
-		"year": "1977",
-		"franchise": "Guerra nas Estrelas",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h1m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg"
-	},
-	{
-		"title": "Guerra nas Estrelas: O Império Contra-Ataca",
-		"year": "1980",
-		"franchise": "Guerra nas Estrelas",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h4m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLGT8b4Ut10z44uYLaip4QiwKta.jpg"
-	},
-	{
-		"title": "Guerra nas Estrelas: O Retorno de Jedi",
-		"year": "1983",
-		"franchise": "Guerra nas Estrelas",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h15m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"
-	},
-	{
-		"title": "Rogue One: Uma História Star Wars",
-		"year": "2016",
-		"franchise": "Guerra nas Estrelas",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h13m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74C2YX0NLWnozVMRS56d5CKDdEv.jpg"
-	},
-	{
-		"title": "Star Wars: Episódio I - A Ameaça Fantasma",
-		"year": "1999",
-		"franchise": "Guerra nas Estrelas",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h16m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg"
-	},
-	{
-		"title": "Star Wars: Episódio II - Ataque dos Clones",
-		"year": "2002",
-		"franchise": "Guerra nas Estrelas",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h22m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9m1nJ2MfTG5QEmjOCg0b4YCo4W8.jpg"
-	},
-	{
-		"title": "Star Wars: Episódio III - A Vingança dos Sith",
-		"year": "2005",
-		"franchise": "Guerra nas Estrelas",
-		"genre": "Ação, Ficção Científica",
-		"duration": "2h20m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg"
-	},
-	{
-		"title": "O Senhor dos Anéis: A Sociedade do Anel",
-		"year": "2001",
-		"franchise": "O Senhor dos Anéis",
-		"genre": "Ação, Fantasia, Ação",
-		"duration": "2h59m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MK3i5CsPuWNwMmgS3ntAcOQhRF.jpg"
-	},
-	{
-		"title": "O Senhor dos Anéis: As Duas Torres",
-		"year": "2002",
-		"franchise": "O Senhor dos Anéis",
-		"genre": "Ação, Fantasia, Ação",
-		"duration": "3h",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg"
-	},
-	{
-		"title": "O Senhor dos Anéis: O Retorno do Rei",
-		"year": "2003",
-		"franchise": "O Senhor dos Anéis",
-		"genre": "Ação, Fantasia, Ação",
-		"duration": "3h22m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg"
-	},
-	{
-		"title": "O Hobbit: Uma Jornada Inesperada",
-		"year": "2012",
-		"franchise": "O Senhor dos Anéis",
-		"genre": "Ação, Fantasia, Ação",
-		"duration": "3h2m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg"
-	},
-	{
-		"title": "O Hobbit: A Desolação de Smaug",
-		"year": "2013",
-		"franchise": "O Senhor dos Anéis",
-		"genre": "Ação, Fantasia, Ação",
-		"duration": "2h41m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg"
-	},
-	{
-		"title": "O Hobbit: A Batalha dos Cinco Exércitos",
-		"year": "2014",
-		"franchise": "O Senhor dos Anéis",
-		"genre": "Ação, Fantasia, Ação",
-		"duration": "2h24m",
-		"img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5tGL0dbQpAkK9ItUaDrUbTvTMDp.jpg"
-	}
+[{
+        "title": "Harry Potter e a Pedra Filosofal",
+        "year": "2001",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h32m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+        "trailer": "https://www.youtube.com/watch?v=PbdM1db3JbY"
+    },
+    {
+        "title": "Harry Potter e o Prisioneiro de Azkaban",
+        "year": "2004",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h22m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg",
+        "trailer": "https://youtu.be/V_JtCbmkPA0"
+    },
+    {
+        "title": "Harry Potter e o Cálice de Fogo",
+        "year": "2005",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h37m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+        "trailer": "https://youtu.be/RwJlOdtoHRE"
+    },
+    {
+        "title": "Harry Potter e a Ordem da Fênix",
+        "year": "2007",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h18m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/sO2VWeJ8qagNtYoznyLRL8TeSkw.jpg",
+        "trailer": "https://youtu.be/Tbv2Al6LGW8"
+    },
+    {
+        "title": "Harry Potter e o Enigma do Príncipe",
+        "year": "2009",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h33m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/kT8bDEAgEYBKhRJtqM97qTw6uRW.jpg",
+        "trailer": "https://www.youtube.com/watch?v=O5FS59Mos8M"
+    },
+    {
+        "title": "Harry Potter e as Relíquias da Morte - Parte 1",
+        "year": "2010",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h26m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+        "trailer": "https://youtu.be/-_GftUTRWHM"
+    },
+    {
+        "title": "Harry Potter e as Relíquias da Morte - Parte 2",
+        "year": "2011",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h10m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/oMHB4CgScsgBBlwILPd3MM1E840.jpg",
+        "trailer": "https://youtu.be/vX4uUtJfOPA"
+    },
+    {
+        "title": "Animais Fantásticos e Onde Habitam",
+        "year": "2016",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h12m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGkt9ekX5cgRYKRIiJM27Xp3piR.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+        "trailer": "https://youtu.be/HRdIQ5oLHG4"
+    },
+    {
+        "title": "Animais Fantásticos: Os Crimes de Grindelwald",
+        "year": "2018",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h13m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oANEhQDQ3eB8tcqRPSzABim8oNg.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/qrtRKRzoNkf5vemO9tJ2Y4DrHxQ.jpg",
+        "trailer": "https://youtu.be/FCPH6mhGa7c"
+    },
+    {
+        "title": "Animais Fantásticos:  Os Segredos de Dumbledore",
+        "year": "2022",
+        "franchise": "Harry Potter",
+        "genre": "Aventura, Fantasia",
+        "duration": "2h22m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/uq54wVdwv3D91h99yZZCPK7OSKJ.jpg",
+        "trailer": "https://youtu.be/hLoc55VAByk"
+    },
+    {
+        "title": "Capitã Marvel",
+        "year": "2019",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h4m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+        "trailer": "https://youtu.be/FV7AxLbHcrE"
+    },
+    {
+        "title": "Homem de Ferro",
+        "year": "2008",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h6m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tAcDOFX0WludQhvTdmG2rDxyQRM.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/8EgxSaVRZwcm3pWChyW4j7yPplq.jpg",
+        "trailer": "https://youtu.be/Y4_ngNQd7FM"
+    },
+    {
+        "title": "O Incrível Hulk",
+        "year": "2008",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Ficção Científica",
+        "duration": "1h52m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2vB6OlhTA1jAazDXrr7PEgFPnV.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+        "trailer": "https://youtu.be/xjBAYL-lvW0"
+    },
+    {
+        "title": "Homem de Ferro 2",
+        "year": "2010",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h5m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+        "trailer": "https://youtu.be/b5qs_RtpkhA"
+    },
+    {
+        "title": "Thor",
+        "year": "2011",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Fantasia",
+        "duration": "1h54m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+        "trailer": "https://youtu.be/TyJIwpnqdsc"
+    },
+    {
+        "title": "Capitão América: O Primeiro Vingador",
+        "year": "2011",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h4m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/wpI4He62QfRK4F7njzqi0162pKC.jpg",
+        "trailer": "https://youtu.be/pAhkM_0gQ-0"
+    },
+    {
+        "title": "Os Vingadores",
+        "year": "2012",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h23m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+        "trailer": "https://youtu.be/6Y6zOSn8ff4"
+    },
+    {
+        "title": "Homem de Ferro 3",
+        "year": "2013",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h10m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
+        "trailer": "https://youtu.be/igfXmU1r_mc"
+    },
+    {
+        "title": "Thor: O Mundo Sombrio",
+        "year": "2013",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "1h52m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/uhYoytlNaq46dG81wLmHqaSuzWu.jpg",
+        "trailer": "https://youtu.be/4ooGbThTga8"
+    },
+    {
+        "title": "Capitão América 2: O Soldado Invernal",
+        "year": "2014",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h16m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iBFPjLLHXkBojKpWDluJxnpM24h.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/aZBZtLCM90QHDCuZFR6oc4NXCWu.jpg",
+        "trailer": "https://youtu.be/t8uUxzKDy-8"
+    },
+    {
+        "title": "Guardiões da Galáxia",
+        "year": "2014",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h2m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gyhICZLe3wSCCy0vjFfiVlhYsfu.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/ko4N6wWp0UYlMmsVyfIfLyRAZtP.jpg",
+        "trailer": "https://youtu.be/lQl530nGjMI"
+    },
+    {
+        "title": "Vingadores: Era de Ultron",
+        "year": "2015",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h21m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGIIl89vglo66yUfbuTxzNAs4y5.jpg",
+        "wallpaper": "",
+        "trailer": ""
+    },
+    {
+        "title": "Homem-Formiga",
+        "year": "2015",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "1h58m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/wjklF1KOHUcKezUjjyAnG5Hi6bK.jpg",
+        "trailer": "https://youtu.be/I4lgl7ImHSg"
+    },
+    {
+        "title": "Capitão América: Guerra Civil",
+        "year": "2016",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h28m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/hu1gbB9kUsnjq4z1eoFmsSVpMFG.jpg",
+        "trailer": "https://youtu.be/FRLYZn5PGuA"
+    },
+    {
+        "title": "Doutor Estranho",
+        "year": "2016",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "1h55m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/3uk5PgmNlMovqcK08VdI1YUWkOx.jpg",
+        "trailer": "https://youtu.be/YUfWrIcX4zw"
+    },
+    {
+        "title": "Guardiões da Galáxia Vol. 2",
+        "year": "2017",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h17m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/n3gb8oqP9BeRCUsCmZVaT5eltPH.jpg",
+        "trailer": "https://youtu.be/4-i8nTNSQFI"
+    },
+    {
+        "title": "Homem-Aranha: De Volta ao Lar",
+        "year": "2017",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h13m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/vc8bCGjdVp0UbMNLzHnHSLRbBWQ.jpg",
+        "trailer": "https://youtu.be/2x-2iYxgMFU"
+    },
+    {
+        "title": "Thor: Ragnarok",
+        "year": "2017",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h10m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+        "trailer": "https://youtu.be/UvNnqWLruXA"
+    },
+    {
+        "title": "Pantera Negra",
+        "year": "2018",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h15m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/g48QjOQSy6PUMGPoKm8BZYyLEAw.jpg",
+        "trailer": "https://youtu.be/wL4a4MafSjQ"
+    },
+    {
+        "title": "Vingadores: Guerra Infinita",
+        "year": "2018",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h29m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+        "trailer": "https://youtu.be/4jGRyEa2jhE"
+    },
+    {
+        "title": "Homem-Formiga e a Vespa",
+        "year": "2018",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "1h58m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/6P3c80EOm7BodndGBUAJHHsHKrp.jpg",
+        "trailer": "https://youtu.be/0HGBv7s1Y7E"
+    },
+    {
+        "title": "Capitã Marvel",
+        "year": "2019",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Aventura",
+        "duration": "2h4m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+        "trailer": "https://youtu.be/FV7AxLbHcrE"
+    },
+    {
+        "title": "Vingadores: Ultimato",
+        "year": "2019",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Ficção Científica",
+        "duration": "3h2m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/9wXPKruA6bWYk2co5ix6fH59Qr8.jpg",
+        "trailer": "https://youtu.be/spJoZReeIeQ"
+    },
+    {
+        "title": "Thor: Amor e Trovão",
+        "year": "2022",
+        "franchise": "Marvel - Saga do Infinito",
+        "genre": "Ação, Fantasia",
+        "duration": "1h59m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
+        "trailer": "https://youtu.be/CTG7omQnS2Q"
+    },
+    {
+        "title": "Guerra nas Estrelas",
+        "year": "1977",
+        "franchise": "Guerra nas Estrelas",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h1m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/aDYSnJAK0BTVeE8osOy22Kz3SXY.jpg",
+        "trailer": "https://youtu.be/jVrf_bKTjo4"
+    },
+    {
+        "title": "Guerra nas Estrelas: O Império Contra-Ataca",
+        "year": "1980",
+        "franchise": "Guerra nas Estrelas",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h4m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLGT8b4Ut10z44uYLaip4QiwKta.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+        "trailer": "https://youtu.be/4KnAyxgZ3Vo"
+    },
+    {
+        "title": "Guerra nas Estrelas: O Retorno de Jedi",
+        "year": "1983",
+        "franchise": "Guerra nas Estrelas",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h15m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/llaJ35p5e23ygDbqd0H3otJLWsA.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/kXi613lOSTzZIlR9p05Zoj9TO0Z.jpg",
+        "trailer": "https://youtu.be/BT-fVW24-q4"
+    },
+    {
+        "title": "Rogue One: Uma História Star Wars",
+        "year": "2016",
+        "franchise": "Guerra nas Estrelas",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h13m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74C2YX0NLWnozVMRS56d5CKDdEv.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/3FH1puEfAchsPvvh636su5shlC2.jpg",
+        "trailer": "https://youtu.be/ySVDUw-c3PU"
+    },
+    {
+        "title": "Star Wars: Episódio I - A Ameaça Fantasma",
+        "year": "1999",
+        "franchise": "Guerra nas Estrelas",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h16m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/9r4IRZUJ564J38EcLRPM9uUZlVp.jpg",
+        "trailer": "https://youtu.be/HteArFRc6Zk"
+    },
+    {
+        "title": "Star Wars: Episódio II - Ataque dos Clones",
+        "year": "2002",
+        "franchise": "Guerra nas Estrelas",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h22m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9m1nJ2MfTG5QEmjOCg0b4YCo4W8.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/3UBtmYaY3lm8wGZIa0KK1YazEX8.jpg",
+        "trailer": "https://youtu.be/n7DQ9SdjUmg"
+    },
+    {
+        "title": "Star Wars: Episódio III - A Vingança dos Sith",
+        "year": "2005",
+        "franchise": "Guerra nas Estrelas",
+        "genre": "Ação, Ficção Científica",
+        "duration": "2h20m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/uuh6uNEGqLCU7wQ2L4xMqYv0DPr.jpg",
+        "trailer": "https://youtu.be/znpliCR0_Kw"
+    },
+    {
+        "title": "O Senhor dos Anéis: A Sociedade do Anel",
+        "year": "2001",
+        "franchise": "O Senhor dos Anéis",
+        "genre": "Ação, Fantasia, Ação",
+        "duration": "2h59m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MK3i5CsPuWNwMmgS3ntAcOQhRF.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+        "trailer": "https://youtu.be/-xg-FkPtLag"
+    },
+    {
+        "title": "O Senhor dos Anéis: As Duas Torres",
+        "year": "2002",
+        "franchise": "O Senhor dos Anéis",
+        "genre": "Ação, Fantasia, Ação",
+        "duration": "3h",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+        "trailer": "https://youtu.be/6pu9OPX68yM"
+    },
+    {
+        "title": "O Senhor dos Anéis: O Retorno do Rei",
+        "year": "2003",
+        "franchise": "O Senhor dos Anéis",
+        "genre": "Ação, Fantasia, Ação",
+        "duration": "3h22m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/lXhgCODAbBXL5buk9yEmTpOoOgR.jpg",
+        "trailer": "https://youtu.be/LiKeQrChkTY"
+    },
+    {
+        "title": "O Hobbit: Uma Jornada Inesperada",
+        "year": "2012",
+        "franchise": "O Senhor dos Anéis",
+        "genre": "Ação, Fantasia, Ação",
+        "duration": "3h2m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/dliT4dh9r23PGx3qMOnJXXybbN4.jpg",
+        "trailer": "https://youtu.be/4AKkpnCKa2I"
+    },
+    {
+        "title": "O Hobbit: A Desolação de Smaug",
+        "year": "2013",
+        "franchise": "O Senhor dos Anéis",
+        "genre": "Ação, Fantasia, Ação",
+        "duration": "2h41m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg",
+        "trailer": "https://youtu.be/t3iaIO5pnm4"
+    },
+    {
+        "title": "O Hobbit: A Batalha dos Cinco Exércitos",
+        "year": "2014",
+        "franchise": "O Senhor dos Anéis",
+        "genre": "Ação, Fantasia, Ação",
+        "duration": "2h24m",
+        "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5tGL0dbQpAkK9ItUaDrUbTvTMDp.jpg",
+        "wallpaper": "https://www.themoviedb.org/t/p/original/bVmSXNgH1gpHYTDyF9Q826YwJT5.jpg",
+        "trailer": "https://youtu.be/VKkFW5TTB6g"
+    }
 ]
